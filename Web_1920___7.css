@@ -1,0 +1,367 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 7;
+	--web-view-id: Web_1920___7;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___7;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___7 {
+	position: absolute;
+	width: 1366px;
+	height: 657px;
+	background-color: rgba(33,31,31,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 7;
+	--web-view-id: Web_1920___7;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#WhatsApp_Image_2020_05_13_at_1 {
+	opacity: 0.5;
+	position: absolute;
+	width: 670px;
+	height: 892px;
+	left: 0px;
+	top: -117px;
+	overflow: visible;
+}
+#WhatsApp_Image_2020_05_13_at_1_h {
+	opacity: 0.5;
+	position: absolute;
+	width: 696px;
+	height: 928px;
+	left: 670px;
+	top: -135px;
+	overflow: visible;
+}
+.Ret_ngulo_9 {
+	position: absolute;
+	overflow: visible;
+	width: 210px;
+	height: 40px;
+	left: 464.681px;
+	top: 170.262px;
+}
+#Quem_Somos {
+	position: absolute;
+	left: 195.5px;
+	top: 170.243px;
+	overflow: visible;
+	width: 201px;
+	height: 56.79px;
+	--web-animation: fadein 1s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(41,105,190,1);
+}
+#Servi_os {
+	position: absolute;
+	left: 472.26px;
+	top: 170.242px;
+	overflow: visible;
+	width: 201px;
+	height: 56.79px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(41,105,190,1);
+}
+.Linha_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1366px;
+	height: 1px;
+	left: 0px;
+	top: 617.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Engenheiros {
+	position: absolute;
+	left: 749.13px;
+	top: 170.242px;
+	overflow: visible;
+	width: 201px;
+	height: 56.79px;
+	--web-animation: fadein 1s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___4.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(41,105,190,1);
+}
+#Contato {
+	position: absolute;
+	left: 1026px;
+	top: 170.242px;
+	overflow: visible;
+	width: 201px;
+	height: 56.79px;
+	--web-animation: fadein 1s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___5.html;
+	cursor: pointer;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 23px;
+	color: rgba(41,105,190,1);
+}
+#Desenvolvido_por_Ailan {
+	position: absolute;
+	left: 441.01px;
+	top: 620px;
+	overflow: visible;
+	width: 484px;
+	height: 40px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(41,105,190,1);
+}
+#Ret_ngulo_10 {
+	position: absolute;
+	width: 45px;
+	height: 45px;
+	left: 46px;
+	top: 167px;
+	overflow: visible;
+	--web-animation: fadein 1s wind-up;
+	--web-action-type: page;
+	--web-action-target: Web_1920___1.html;
+	cursor: pointer;
+}
+.Ret_ngulo_11 {
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	height: 32px;
+	left: 1014px;
+	top: 53px;
+}
+.Icon_metro_search {
+	overflow: visible;
+	position: absolute;
+	width: 25.742px;
+	height: 27.384px;
+	left: 1182.259px;
+	top: 55.166px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Caminho_5 {
+	overflow: visible;
+	position: absolute;
+	width: 392px;
+	height: 209px;
+	left: 221px;
+	top: 286px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ret_ngulo_30 {
+	position: absolute;
+	width: 100px;
+	height: 149px;
+	left: 1182px;
+	top: 346px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___8.html;
+	cursor: pointer;
+}
+.Ret_ngulo_31 {
+	position: absolute;
+	overflow: visible;
+	width: 392px;
+	height: 209px;
+	left: 711px;
+	top: 286px;
+}
+#Fiscaliza__o_de_Obra {
+	position: absolute;
+	left: 246px;
+	top: 401px;
+	overflow: visible;
+	width: 253px;
+	height: 32px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Ret_ngulo_20 {
+	opacity: 0.63;
+	position: absolute;
+	width: 149px;
+	height: 150px;
+	left: 440px;
+	top: 329px;
+	overflow: visible;
+}
+#Or_amentos_e_Materiais {
+	position: absolute;
+	left: 732px;
+	top: 397px;
+	overflow: visible;
+	width: 253px;
+	height: 75px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#Ret_ngulo_21 {
+	opacity: 0.56;
+	position: absolute;
+	width: 140px;
+	height: 143px;
+	left: 952px;
+	top: 346px;
+	overflow: visible;
+}
+#Ret_ngulo_30_in {
+	position: absolute;
+	width: 100px;
+	height: 149px;
+	left: 49px;
+	top: 329px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Web_1920___6.html;
+	cursor: pointer;
+}
+.Caminho_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1365.5px;
+	height: 1px;
+	left: 0.5px;
+	top: 131.415px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Souza_Araujo {
+	position: absolute;
+	left: 197px;
+	top: 23px;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: CanterBold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(255,255,255,1);
+}
+#ENGENHARIA__E__CONSTRUTORA {
+	position: absolute;
+	left: 197.101px;
+	top: 63.562px;
+	overflow: visible;
+	width: 281px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: CanterBold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19.23189926147461px;
+	color: rgba(0,127,171,1);
+}
+#Grupo_21 {
+	position: absolute;
+	width: 130.236px;
+	height: 130.236px;
+	left: 59.603px;
+	top: -7.397px;
+	overflow: visible;
+}
+.Caminho_36 {
+	overflow: visible;
+	position: absolute;
+	width: 79.258px;
+	height: 78.93px;
+	left: 35.398px;
+	top: 35.727px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Elipse_9 {
+	width: 92.091px;
+	height: 92.091px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,19.0726,19.0726) rotate(-45deg);
+	transform-origin: center;
+}
+.Elipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 81.284px;
+	height: 81.284px;
+	left: 24.476px;
+	top: 24.476px;
+}
+.Elipse_11 {
+	position: absolute;
+	overflow: visible;
+	width: 75.817px;
+	height: 75.817px;
+	left: 27.209px;
+	top: 27.21px;
+}
+#Grupo_20 {
+	position: absolute;
+	width: 75.817px;
+	height: 75.817px;
+	left: 27.209px;
+	top: 27.21px;
+	overflow: visible;
+}
+#Grupo_19 {
+	position: absolute;
+	width: 75.817px;
+	height: 75.817px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}

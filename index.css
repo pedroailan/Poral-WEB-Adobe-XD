@@ -1,0 +1,380 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920___1 {
+	position: absolute;
+	width: 1366px;
+	height: 657px;
+	background-color: rgba(33,31,31,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+.Caminho_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1365.5px;
+	height: 1px;
+	left: 0.5px;
+	top: 127.415px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_24 {
+	position: absolute;
+	width: 927px;
+	height: 151px;
+	left: 220px;
+	top: 346.123px;
+	overflow: visible;
+}
+#Grupo_2 {
+	position: absolute;
+	width: 200px;
+	height: 150px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_5 {
+	position: absolute;
+	width: 200px;
+	height: 150px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_6 {
+	position: absolute;
+	width: 200px;
+	height: 150px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein 1s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___2.html;
+	cursor: pointer;
+}
+.Ret_ngulo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 150px;
+	left: 0px;
+	top: 0px;
+}
+#Quem_Somos {
+	position: absolute;
+	left: 40.216px;
+	top: 26.227px;
+	overflow: visible;
+	width: 121px;
+	height: 110px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(41,105,190,1);
+}
+#Ret_ngulo_5 {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 80.216px;
+	top: 79.099px;
+	overflow: visible;
+}
+#Grupo_1 {
+	position: absolute;
+	width: 200px;
+	height: 150px;
+	left: 240.894px;
+	top: 0.996px;
+	overflow: visible;
+	--web-animation: fadein 1s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___6.html;
+	cursor: pointer;
+}
+.Ret_ngulo_2 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 150px;
+	left: 0px;
+	top: 0px;
+}
+#Ret_ngulo_6 {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 80.151px;
+	top: 80.848px;
+	overflow: visible;
+}
+#Servi_os {
+	position: absolute;
+	left: 38.153px;
+	top: 27.956px;
+	overflow: visible;
+	width: 121px;
+	height: 110px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(41,105,190,1);
+}
+#Grupo_3 {
+	position: absolute;
+	width: 200px;
+	height: 150px;
+	left: 485.825px;
+	top: 0.996px;
+	overflow: visible;
+	--web-animation: fadein 1s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___4.html;
+	cursor: pointer;
+}
+.Ret_ngulo_3 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 150px;
+	left: 0px;
+	top: 0px;
+}
+#Ret_ngulo_7 {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 79.81px;
+	top: 89.477px;
+	overflow: visible;
+}
+#Engenheiros {
+	position: absolute;
+	left: 15.885px;
+	top: 19.036px;
+	overflow: visible;
+	width: 173px;
+	height: 70px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(41,105,190,1);
+}
+#Grupo_4 {
+	position: absolute;
+	width: 200px;
+	height: 150px;
+	left: 727px;
+	top: 1px;
+	overflow: visible;
+	--web-animation: fadein 1s linear;
+	--web-action-type: page;
+	--web-action-target: Web_1920___5.html;
+	cursor: pointer;
+}
+.Ret_ngulo_4 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 150px;
+	left: 0px;
+	top: 0px;
+}
+#Ret_ngulo_8 {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 80.254px;
+	top: 81.78px;
+	overflow: visible;
+}
+#Contato {
+	position: absolute;
+	left: 40.278px;
+	top: 26.513px;
+	overflow: visible;
+	width: 121px;
+	height: 47px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(41,105,190,1);
+}
+.Linha_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1366px;
+	height: 1px;
+	left: 0px;
+	top: 617.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Desenvolvido_por_Ailan {
+	position: absolute;
+	left: 442px;
+	top: 617px;
+	overflow: visible;
+	width: 484px;
+	height: 40px;
+	text-align: center;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(41,105,190,1);
+}
+#Souza_Araujo {
+	position: absolute;
+	left: 246px;
+	top: 33px;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: CanterBold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 34px;
+	color: rgba(253,253,253,1);
+}
+#ENGENHARIA__E__CONSTRUTORA {
+	position: absolute;
+	left: 246.101px;
+	top: 70.562px;
+	overflow: visible;
+	width: 281px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: CanterBold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19.23189926147461px;
+	color: rgba(0,127,171,1);
+}
+#Grupo_21 {
+	position: absolute;
+	width: 130.236px;
+	height: 130.236px;
+	left: 115.603px;
+	top: -0.397px;
+	overflow: visible;
+}
+.Caminho_36 {
+	overflow: visible;
+	position: absolute;
+	width: 79.258px;
+	height: 78.93px;
+	left: 35.398px;
+	top: 35.727px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.Elipse_9 {
+	width: 92.091px;
+	height: 92.091px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(0px, 0px) matrix(1,0,0,1,19.0726,19.0726) rotate(-45deg);
+	transform-origin: center;
+}
+.Elipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 81.284px;
+	height: 81.284px;
+	left: 24.476px;
+	top: 24.476px;
+}
+.Elipse_11 {
+	position: absolute;
+	overflow: visible;
+	width: 75.817px;
+	height: 75.817px;
+	left: 27.209px;
+	top: 27.21px;
+}
+#Grupo_20 {
+	position: absolute;
+	width: 75.817px;
+	height: 75.817px;
+	left: 27.209px;
+	top: 27.21px;
+	overflow: visible;
+}
+#Grupo_19 {
+	position: absolute;
+	width: 75.817px;
+	height: 75.817px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_25 {
+	position: absolute;
+	width: 526px;
+	height: 37px;
+	left: 420px;
+	top: 215px;
+	overflow: visible;
+}
+.Ret_ngulo_104 {
+	position: absolute;
+	overflow: visible;
+	width: 526px;
+	height: 37px;
+	left: 0px;
+	top: 0px;
+}
+#Do_que_voc__precisa_ {
+	position: absolute;
+	left: 50px;
+	top: 3px;
+	overflow: hidden;
+	width: 336px;
+	height: 26px;
+	line-height: 34px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: CanterBold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+.Icon_metro_search {
+	overflow: visible;
+	position: absolute;
+	width: 25.742px;
+	height: 25px;
+	left: 470.259px;
+	top: 7.012px;
+	transform: matrix(1,0,0,1,0,0);
+}
